@@ -7,8 +7,8 @@
   "stack": "container",
 "env": {
   "OWNER_NAME": {
-  "description": "BOT OWNER NAME", 
-      "value": "Alexdavid"
+  "description": "263776312194", 
+      "value": "tue"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -69,13 +69,13 @@
       "value": "."
   },
   "OWNER_NUMBER": {
-    "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "put owner number"
+    "description": "263776312194",
+       "value": "263776312194"
  },	  
    "SESSION_ID": {
     "description": "DONT CUT BLADE-MD;;; WORD PUT YOURE SESSION ID HERE.",
     "required" :true,
-    "value": "BLADE-MD;;;"
+    "value": "Silva~OnpHCLyL#1CMHIc1WOCqQiU_rGxQLifsYgH3yRa_jEsFLwktEGTo"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
